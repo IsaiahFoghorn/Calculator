@@ -4,6 +4,6 @@ public class Matrix {
     private double[][] matrix;
 
     public Matrix() {
-
+        matrix = null;
     }
 }
